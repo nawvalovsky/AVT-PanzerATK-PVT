@@ -6,9 +6,9 @@ yo, welcome to **PMC AEVIATHAN** (ЧВК АЭВИАФАН). this is a lowkey eff
 basically, you pick a tank, and we calculate if you're gonna bake the enemy or get cooked. we’re using **direct indexing** $O(1)$ because we don't have time for `for` loops. efficiency is the move.
 
 ## the lineup
-* **JagdPanzer** (the heavy hitter 💥)
-* **T34** (the classic 🎖️)
-* **PZ_IV** (the balanced king 👑)
+* **JagdPanzer** (the heavy hitter)
+* **T34** (the classic)
+* **PZ_IV** (the balanced king)
 
 ## tech stack
 - **Language:** Go (Golang)
